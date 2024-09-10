@@ -1,0 +1,10 @@
+# 2023-2024 AVRASYA ÜNİVERSİTESİ NESNE TABANLI PROGRAMLAMA DERS NOTUM
+_Nesne yapılarının temellerini alırken anlatılan örnekleri elimde olan ve kendi yaptığım örnekleri barındırmaktadır._
+| SINIF | AÇIKLAMA  |
+|---|---|
+|*abstractkullanimi*|Objeler arası ortak özelliklerin aktarımı, Şekil sınıfı ile yapılmaktadır. Kare, Daire ve Üçgen sınıflarında yapılan işlemler farklılık gösterdiğinden, alan hesaplama gibi ortak isimlendirilmiş fonksiyonlar Şekil sınıfında soyut fonksiyon olarak tanımlanmıştır. Şekillerin kendi sınıflarında Override ile bu soyut fonksiyon üzerine yazılarak, ilgili şekil çağrıldığında soyut olarak tanımlanan fonksiyonun, o şekle özgü bir şekilde hesaplama yapması sağlanmıştır.|
+|forEachKullanimi|isimler adında bir dizi oluşturulmuş ve for-each döngüsü kullanılarak her bir isim ekrana bastırılmıştır. for-each döngüsü, isimler dizisindeki her bir öğeyi sırasıyla alarak isim değişkenine atar ve her adımı ekrana yazdırır. Böylece, dizideki tüm isimler sırayla döndürülerek ekrana yazdırılır. Döngünün nasıl çalıştığı anlatılmaya çalışımıştır.|
+|ImplamentKullanimi|Sınıfları belirli koşullara bağlı olarak çalışacak şekilde yapılandırmak amacıyla implements kullanımı açıklanmıştır. Implements, bir sınıfın bir veya daha fazla arayüzü (interface) uygulayarak bu arayüzlerde tanımlanan metodları kendi bünyesinde tanımlamasını sağlar. Bu sayede sınıflar, arayüzde belirlenen koşullara uygun olarak çalıştırılır. Bu örnekte Imühendis sınıfı ile bu sınıfı implemente edilerek bir arayüz oluşturulması ve sınıfların bu yapıya göre oluşturulması amaçlanmıştır.|
+|loginapp|Static fonksiyon ve for-each kullanımına örnek olması amaçlanmıştır.|
+|staticnedir| static olarak tanımlanan bir metod veya değişken, sınıfın bir örneği (nesnesi) oluşturulmadan da kullanılabilir. Bu örnekte bunun anlatılması amaçlanılmıştır.|
+|stringProporties|Terminal ekranında çıkan tazılarda hizalama gibi işlemlerde kullanılan format işlemi anlatılmaya çalışımıştır.|
