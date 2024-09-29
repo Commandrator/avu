@@ -1,0 +1,62 @@
+HASTANE
+	HASTA
+		T.C.
+			AD
+			SOYAD
+			KIMLIK NO
+			SERI NO
+			AILE SIRA NO
+			ANNE ADI
+			BABA ADI
+
+		ILETISIM
+			TELEFON
+			MAIL
+			ADRES
+
+		HASTA DURUMU
+			TEHSI
+			HASTALIK NEDENI
+			SAĞLIK DURUMU
+
+		GENEL
+			KAN GURUNU
+			DEVAMLI HASTALIK DURUMU
+
+	PERSONELLER
+		DOTORLAR
+			AD
+			SOYAD
+			SERTIFIKA
+			UZMANLIK ALANI
+			BASLADIGI TARIH
+
+		HEMSIRE
+			AD
+			SOYAD
+			ALANI
+			BASLADIGI TARIH
+
+		GUVENLIK
+			AD
+			SOYAD
+			SERTIFIKASI
+			BASLADIGI TARIH
+
+		HIZMETLIL
+			AD
+			SOYAD
+			BASLADIGI TARIH
+
+	MALZEME STOĞU
+		TEMIZLIK
+			[ID] int NOT NULL,
+			[Ürün Kodu] NULL,
+			[Ürün Adı] nvarchar NOT NULL,
+			[Ürün Fiyatı] money NOT NULL,
+			[Ürün KDV oranı] tinyint NULL,
+			[Stok Tarihi] datetime NOT NULL,
+			[Ürün Tarihi] datetime NULL,
+			[Ürünü Teslim Alan] 
+			[Ürünü Teslim Eden] nvarchar(50) NOT NULL
+			[Ürün Son Kullanım Tarihi] date time
