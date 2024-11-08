@@ -7,8 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GorselProgramlamaHafta4Proj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12. hafta ödevi", "12. hafta ödevi\12. hafta ödevi.csproj", "{B3F995CB-84D0-4E99-96FF-0319427F8B91}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.Hafta", "12.Hafta\12.Hafta.csproj", "{FFB1F82E-5528-4C8C-A42B-A3EE3CEE893C}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Görsel Programlama hafta 5 db connction - talha", "Görsel Programlama hafta 5 db connction- talha\Görsel Programlama hafta 5 db connction - talha.csproj", "{620F558C-C7FF-4B34-A0E4-BEFBFDE7B682}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bakiye hesap modülü", "bakiye hesap modülü\bakiye hesap modülü\bakiye hesap modülü.csproj", "{3E1785DE-5116-48E9-A285-C1EFA5040096}"
@@ -29,10 +27,6 @@ Global
 		{B3F995CB-84D0-4E99-96FF-0319427F8B91}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B3F995CB-84D0-4E99-96FF-0319427F8B91}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B3F995CB-84D0-4E99-96FF-0319427F8B91}.Release|Any CPU.Build.0 = Release|Any CPU
-		{FFB1F82E-5528-4C8C-A42B-A3EE3CEE893C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FFB1F82E-5528-4C8C-A42B-A3EE3CEE893C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{FFB1F82E-5528-4C8C-A42B-A3EE3CEE893C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{FFB1F82E-5528-4C8C-A42B-A3EE3CEE893C}.Release|Any CPU.Build.0 = Release|Any CPU
 		{620F558C-C7FF-4B34-A0E4-BEFBFDE7B682}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{620F558C-C7FF-4B34-A0E4-BEFBFDE7B682}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{620F558C-C7FF-4B34-A0E4-BEFBFDE7B682}.Release|Any CPU.ActiveCfg = Release|Any CPU
