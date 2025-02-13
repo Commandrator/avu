@@ -1,0 +1,13 @@
+*.py linguist-detectable=true
+*.java linguist-detectable=true
+*.js linguist-detectable=true
+*.html  linguist-detectable=true
+*.json  linguist-detectable=true
+*.X68  linguist-detectable=true
+*.jsx  linguist-detectable=true
+*.c  linguist-detectable=true
+*.cs  linguist-detectable=true
+*.csproj linguist-vendored
+*.sln linguist-vendored
+*.md linguist-vendored
+*.txt linguist-vendored
