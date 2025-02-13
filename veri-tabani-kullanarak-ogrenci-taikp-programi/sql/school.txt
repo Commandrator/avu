@@ -1,0 +1,14 @@
+mysql> use database test;	// bu komust veri tabanı seçmeye yarar.
+mysql> DESCRIBE student; 	// describe istenilen tablonun öselliklerini göstermeye yarar.
+
++------------+--------------+------+-----+---------+-------+
+| Field      | Type         | Null | Key | Default | Extra |
++------------+--------------+------+-----+---------+-------+
+| Collage_ID | decimal(5,0) | NO   | PRI | NULL    |       |
+| Name       | varchar(21)  | YES  |     | NULL    |       |
+| BirthDate  | date         | YES  |     | NULL    |       |
+| Grade      | decimal(4,2) | YES  |     | NULL    |       |
++------------+--------------+------+-----+---------+-------+
+4 rows in set (0.00 sec)
+
+Yukarıdaki tablo test veri tabanında bulunmaktadır.
