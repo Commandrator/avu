@@ -2,8 +2,8 @@
 ---
 |Ders|Repo|
 |---|---|
-|Algoritma ve Programlama|[algoritma-ve-programlama]()|
-|Görsel programlama|[gorsel-programlama]()|
-|Mikro işlemci ve Assambly|[mikro-islemci-ve-assambyl]()|
-|Nesne Tabanlı Programlama|[nesne-tabanli-programlama]()|
-|Veritabanı|[veritabani](.\veritabani)|
+|Algoritma ve Programlama|[algoritma-ve-programlama](algoritma-ve-programlama)|
+|Görsel programlama|[gorsel-programlama](gorsel-programlama)|
+|Mikro işlemci ve Assambly|[mikro-islemci-ve-assambyl](mikro-islemci-ve-assambyl)|
+|Nesne Tabanlı Programlama|[nesne-tabanli-programlama](nesne-tabanli-programlama)|
+|Veritabanı|[veritabani](veritabani)|
